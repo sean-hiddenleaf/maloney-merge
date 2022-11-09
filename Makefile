@@ -2,5 +2,5 @@ test:
 	go test
 
 build:
-	go build cli.go
+	go build src/cli.go
 
